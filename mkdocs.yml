@@ -1,0 +1,24 @@
+site_name: Home Networking for Mere Mortals
+site_description: Plain-language guide to running your home network on purpose — routers, DNS, names, reverse proxies, Wi-Fi, and remote access.
+site_url: https://paulsullivan33-dev.github.io/home-networking-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Your Router Does: what-your-router-does.md
+  - DHCP and Reservations: dhcp-and-reservations.md
+  - DNS at Home: dns-at-home.md
+  - Names on Your LAN: names-on-your-lan.md
+  - Reverse Proxies: reverse-proxies.md
+  - Port Forwarding: port-forwarding.md
+  - Guest Networks and VLANs: guest-networks-and-vlans.md
+  - Wi-Fi That Matters: wifi-that-matters.md
+  - Remote Access, Compared: remote-access-compared.md
+  - Double NAT and Gotchas: double-nat-and-gotchas.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md

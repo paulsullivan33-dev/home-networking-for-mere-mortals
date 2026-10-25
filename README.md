@@ -164,3 +164,19 @@ labeled instead of executed:
 - No speed, range, or performance numbers are claimed
   anywhere in the guide — Wi-Fi advice is qualitative
   (placement, bands, channels) by design.
+
+---
+
+## Part of the series
+
+This guide is one of the [For Mere Mortals](https://paulsullivan33-dev.github.io/mere-mortals/) guides: plain-language guides to the tools programmers and makers use.
+
+Related guides:
+
+- [Networking for Mere Mortals](https://paulsullivan33-dev.github.io/networking-for-mere-mortals/)
+- [DNS for Mere Mortals](https://paulsullivan33-dev.github.io/dns-for-mere-mortals/)
+- [Pi-hole for Mere Mortals](https://paulsullivan33-dev.github.io/pi-hole-for-mere-mortals/)
+
+## License
+
+The writing in this guide is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/home-networking-for-mere-mortals/blob/main/LICENSE). Code examples and lab scripts are licensed under the [MIT License](https://github.com/paulsullivan33-dev/home-networking-for-mere-mortals/blob/main/LICENSE-CODE).
